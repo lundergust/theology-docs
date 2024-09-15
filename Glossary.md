@@ -1,4 +1,6 @@
 # Master Glossary
+#### [Back to table of contents](README.md)
+
 | Term | Definition| Theologians | 
 | ---- | --------- | ----------- | 
 | Apostasy | Repudiation of Christ by a Christian |  |

@@ -1,4 +1,5 @@
 # Perserverance of the saints
+#### [Back to table of contents](README.md)
 #### [Back to glossary](Glossary.md)
 The elect will receive salvation. 
 Also called Preservation of the saints, empahasizing that God determines who is elect and who preserveres. 
