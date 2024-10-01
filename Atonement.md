@@ -1,6 +1,6 @@
 # Atonement
-#### [Back to table of contents](README.md)
-#### [Back to glossary](Glossary.md)
+- [Back to table of contents](README.md)
+- [Back to glossary](Glossary.md)
 
 | Term | Definition| 
 | ---- | --------- | 

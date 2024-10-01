@@ -1,5 +1,5 @@
 # Master Glossary
-#### [Back to table of contents](README.md)
+- [Back to table of contents](README.md)
 
 | Term | Definition| Theologians | 
 | ---- | --------- | ----------- | 
@@ -8,6 +8,7 @@
 | [Atonement](Atonement.md) | Jesus's death and resuurrection reconciling sinners with God |  |
 | Common grace | Grace is common to everyone within a specific group. Benefits are intended for everyone without distinction | Reformed |
 | Dispensationilsm | History is divided into multiple ages, or dispensations, in which God interacts with chosen people in different ways | Philip Mauro |
+| [Ecumenical Council](Ecumenical_Councils.md) | A meeting of church bishops which dictates dogma/canon, etc, held to be infallibile and universal in EO church. |  |
 | Effectual Calling | God calling a person to himself |  |
 | [Elect](Election.md) | A person chosen by God to receive His saving grace and be predestined for eternal life | Calvin |
 | Eternal Calling | When someone hears the gospel |  |

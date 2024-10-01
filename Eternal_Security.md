@@ -1,6 +1,7 @@
 # Eternal Security
-#### [Back to table of contents](README.md)
-#### [Back to glossary](Glossary.md)
+- [Back to table of contents](README.md)
+- [Back to glossary](Glossary.md)
+
 Also known as **"Once save always saved"**, this is the idea that believers are 100% confident they are saved. 
 Builds off of the Calvinist doctrine [Perserverance of the saints](Perserverance_Of_The_Saints.md)
 
@@ -45,7 +46,6 @@ Builds off of the Calvinist doctrine [Perserverance of the saints](Perserverance
 ### Plymouth Brethren Theology (Calvinistic dispensationalism)
 - Anglican Calvinist leader John Nelson Darby 1800s
 - Dispensationlism allows perserverance of saints to merge with libertarian free will
-- 
 
 ## Exegesis
 ### Hebrews 6:4-6, 10:26-39
