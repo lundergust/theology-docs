@@ -38,3 +38,5 @@ writing greek letters
 $\beta$
 $\`{o}$
  -->
+
+#TheologyDocs/Greek

@@ -1,6 +1,6 @@
 # Atonement
-- [Back to table of contents](README.md)
-- [Back to glossary](Glossary.md)
+- [[Table of Contents|Return to Table of Contents]]
+- [[Master Glossary|Return to Master Glossary ]]
 
 | Term | Definition| 
 | ---- | --------- | 
@@ -83,3 +83,4 @@
 
 
 
+#TheologyDocs/Main

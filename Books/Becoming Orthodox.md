@@ -1,7 +1,8 @@
-# Becoming Orthodox - Peter Gilquist
+# Becoming Orthodox
 - [Back to table of contents](../README.md)
 - [Back to glossary](../Glossary.md)
 
+Author: Peter Gilquist
 ## Worship
 Early Church worship was liturgical. Three main early sources:
 - Didache - *The teaching of the twelve* (70 AD)
@@ -74,3 +75,4 @@ joe note
 
 
 
+#TheologyDocs/Books

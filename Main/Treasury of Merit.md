@@ -1,6 +1,9 @@
 # Treasury of Merit
-- [Back to table of contents](README.md)
-- [Back to glossary](Glossary.md)
+- [[Table of Contents|Return to Table of Contents]]
+- [[Master Glossary|Return to Master Glossary ]]
 
 Consists of the merits of Jesus and his faithful.
 Because of the communion of saints, these stored up good works can benefit other people.
+
+
+#TheologyDocs/Main

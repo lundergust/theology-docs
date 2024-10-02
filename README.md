@@ -1,21 +1,29 @@
-This is where I will store my notes from researching theological topics. 
-
-# Table of Contents
-- [Glossary](Glossary.md)
+# README
+## Table of Contents
+- [[Master Glossary]]
 ## Theology
-- [Atonement](Atonement.md)
-- [Ecumenical Councils](Ecumenical_Councils.md)
-- [Election](Election.md)
-- [Eternal Security](Eternal_Security.md)
-- [Free Grace](Free_Grace.md)
-- [Mariology](Mariology.md)
-- [Perserverance of the saints](Perserverance_Of_The_Saints.md)
+- [[Atonement]]
+- [[Ecumenical Councils]]
+- [[Election]]
+- [[Eternal Security]]
+- [[Free Grace]]
+- [[Justification]]
+- [[Mariology]]
+- [[Perserverance of the saints]]
+- [[Treasury of Merit]]
 ## Writers
-- [Tertullian](Writers/Tertullian.md)
+- [[Tertullian]]
 ## Greek Word Study
-- [achri (untill) [ $\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$ ]](Greek/achri.md)
-- [adelphoi](Greek/adelphoi.md)
-- [anepsios](Greek/anepsios.md)
-- [<Greek>he</Greek>$\bar{\omicron}$<Greek>s</Greek> (till) [ $\grave{\acute{\epsilon}}{\omega}{\varsigma}$ ]](Greek/heos.md)
+- [[achri (untill) \[ $\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$ \]]]
+- [[Adelphoi (brother)]]
+- [[Anepsios (cousin)]]
+- [[<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek> (till) \[ $\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$ \]]]
 
+## Books
+- [[Becoming Orthodox]]
+
+## Podcasts
+- [[Rock and Sand]]
 ---
+
+#TheologyDocs

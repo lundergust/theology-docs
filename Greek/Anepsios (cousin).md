@@ -10,3 +10,4 @@ Neither Hebrew nor Aramaic have a word for 'cousin', both typically refer to the
 The Septuagint never translates either of these words to 'brother' or 'sister'
 
 
+#TheologyDocs/Greek

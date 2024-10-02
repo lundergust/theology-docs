@@ -1,6 +1,6 @@
 # Free Grace
-- [Back to table of contents](README.md)
-- [Back to glossary](Glossary.md)
+- [[Table of Contents|Return to Table of Contents]]
+- [[Master Glossary|Return to Master Glossary ]]
 
 The only condition for salvation is faith, excluding good works and perserverance, with eternal security. 
 Good works are part of discipleship, and result in more eternal rewards.
@@ -35,3 +35,6 @@ However, there is some divine punishment that is not damnation.
 - Unlimited
 - Penal substitution
 
+
+
+#TheologyDocs/Main

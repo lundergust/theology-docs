@@ -18,4 +18,6 @@ According to context, *adelphoi* from the 'same' *delphys* can mean the followin
 - Step-Brother
     - Mark 6:17-18
 
-    
+
+
+#TheologyDocs/Greek

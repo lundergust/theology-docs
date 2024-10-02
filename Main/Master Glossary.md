@@ -1,5 +1,5 @@
 # Master Glossary
-- [Back to table of contents](README.md)
+- [[Table of Contents|Return to Table of Contents]]
 
 | Term | Definition| Theologians | 
 | ---- | --------- | ----------- | 
@@ -70,3 +70,4 @@
 | Modernism | All doctrines are subject to change, and ought to change depending on time and location | 20th Cen |
 
 
+#TheologyDocs/Main

@@ -1,6 +1,6 @@
 # Mariology
-- [Back to table of contents](README.md)
-- [Back to glossary](Glossary.md)
+- [[Table of Contents|Return to Table of Contents]]
+- [[Master Glossary|Return to Master Glossary ]]
 
 | Term | Definition|
 | ---- | --------- |
@@ -207,8 +207,6 @@ Scholars mostly agree that James the brother of Jesus (James the Just) is refere
 
 
 
-
-
 ## References
 [1] - Brothers of Jesus - Wikipedia
 [] -
@@ -230,3 +228,5 @@ Greek { margin:0; padding:0; letter-spacing:0px; }
 /* redbold { color: Red; font-weight: bold } */
 </style>
 
+
+#TheologyDocs/Main

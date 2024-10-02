@@ -1,6 +1,6 @@
 # Election
-- [Back to table of contents](README.md)
-- [Back to glossary](Glossary.md)
+- [[Table of Contents|Return to Table of Contents]]
+- [[Master Glossary|Return to Master Glossary ]]
 
 ## In Calvinism
 Before the foundation of the world, God chose certain individuals, the **elect**, to receive eternal salvation. 
@@ -14,4 +14,8 @@ This is *unconditional*, meaning not based on human merit or works, but solely o
 ### NT Support
 The meaning now becomes the members of the body of Christ, on earth or in heaven, rather than the people of Israel
 - Matthew 7:13-14  *"...narrow is the gate that leads to life"*
-    - This is taken to mean there are a small number of elect
+  - This is taken to mean there are a small number of elect
+
+
+
+#TheologyDocs/Main

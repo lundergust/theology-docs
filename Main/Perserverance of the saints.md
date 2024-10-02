@@ -1,7 +1,7 @@
 # Perserverance of the saints
-- [Back to table of contents](README.md)
-- [Back to glossary](Glossary.md)
-- [Back to eternal security](Eternal_Security.md)
+- [[Table of Contents|Return to Table of Contents]]
+- [[Master Glossary|Return to Master Glossary ]]
+- ￼[[Eternal Security|Return to Eternal Security ]]
 
 The elect will receive salvation. 
 Also called Preservation of the saints, empahasizing that God determines who is elect and who preserveres. 
@@ -18,3 +18,7 @@ But, believers cannot have certainty of their own salvation.
         - And we cannot yet have eternal security since we dont know who receives this gift
 
 
+
+
+
+#TheologyDocs/Main
