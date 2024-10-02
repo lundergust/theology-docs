@@ -1,5 +1,5 @@
 name: My Workflow
-on: [push]
+on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,5 +9,5 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "[[Master Glossary]]"
-          replace: "[Main/Master Glossary.md]"
+          replace: "[Master Glossary](Main/Master Glossary.md)"
           regex: false
