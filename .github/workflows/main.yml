@@ -1,13 +1,27 @@
-name: My Workflow
-on: [push, pull_request]
+on: [push]
+
 jobs:
-  build:
+  find-and-replace-job:
     runs-on: ubuntu-latest
+    name: 'Find and replace master glossary'
     steps:
-      - uses: actions/checkout@v2
-      - name: Find and Replace
-        uses: jacobtomlinson/gha-find-replace@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Replace Master Glossary Link
+        uses: mad9000/actions-find-and-replace-string@5
+        id: findandreplace
         with:
-          find: "[[Master Glossary]]"
-          replace: "[Master Glossary](Main/Master Glossary.md)"
-          regex: false
+          source: ${{ github.ref }}
+          find: '[[Master Glossary]]'
+          replace: '[Master Glossary](Main/Master Glossary.md)'
+      - name: Get the above output
+        run: echo "The replaced value is ${{ steps.findandreplace.outputs.value }}"
+      - name: Replace Table of Contents links
+        uses: mad9000/actions-find-and-replace-string@5
+        id: findandreplace2
+        with:
+          source: ${{ steps.findandreplace.outputs.value }}
+          find: '[[Table of Contents|Return to Table of Contents]]'
+          replace: '[Return to Table of Contents](README.md)'
+      - name: Get the final output
+        run: echo "The replaced value is ${{ steps.findandreplace2.outputs.value }}"
