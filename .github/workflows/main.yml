@@ -33,14 +33,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Find and Replace - Master Glossary
-        uses: seripap/gha-find-replace@v1
+      - name: Find and Replace - MasterGlossary
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "[[Master Glossary]]"
           replace: "[Master Glossary](Main/Master Glossary.md)"
           regex: false
+      - uses: actions/checkout@v2
       - name: Find and Replace - Table of Contents
-        uses: seripap/gha-find-replace@v1
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "[[Return to Table of Contents]]"
           replace: "[Return to Table of Contents](README.md)"
