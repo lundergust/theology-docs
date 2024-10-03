@@ -43,6 +43,7 @@ jobs:
           find: '[[Master Glossary]]'
           replace: '[Master Glossary](Main/Master Glossary.md)'
           regex: false
+          include: '**/*.md'
           exclude: .
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
