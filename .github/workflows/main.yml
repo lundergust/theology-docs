@@ -26,7 +26,6 @@
 #           max-parallelism: 10
 
 
-
 name: My Workflow
 
 on: [push, pull_request]
@@ -35,19 +34,23 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-     
-      - uses: actions/checkout@main
-     
-      - name: Find and Replace
-        uses: thiagodnf/string-replacer@v1.0.2
+      - uses: frabert/replace-string-action@v2
         with:
-          find: '[[Master Glossary]]'
-          replace: '[Master Glossary](Main/Master Glossary.md)'
-          include: |
-            **/*.md
-          exclude: |
-            .git/**
-            node_modules/**
+          pattern: '[[Master Glossary]]' # regex
+          string: '[[Master Glossary]]'
+          replace-with: '[Master Glossary](Main/Master Glossary.md)'
+
+      # - uses: actions/checkout@main     
+      # - name: Find and Replace
+      #   uses: thiagodnf/string-replacer@v1.0.2
+      #   with:
+      #     find: '[[Master Glossary]]'
+      #     replace: '[Master Glossary](Main/Master Glossary.md)'
+      #     include: |
+      #       **/*.md
+      #     exclude: |
+      #       .git/**
+      #       node_modules/**
 
 
             
