@@ -1,30 +1,56 @@
-on: [push]
+# on: [push]
+
+# jobs:
+#   find-and-replace-job:
+#     runs-on: ubuntu-latest
+#     name: 'Find and replace master glossary'
+#     steps:
+#       # Replace all the occurrences of 'hello' with 'world' in all the txt files, 
+#       # excluding the node_modules folder
+#       - name: Replace Master Glossary
+#         uses: richardrigutins/replace-in-files@v2
+#         with:
+#           files: "${{env.GITHUB_REPOSITORY}}/**/*.md"
+#           search-text: "[[Master Glossary]]"
+#           replacement-text: "[Master Glossary](Main/Master Glossary.md)"
+#           encoding: 'utf8'
+#           max-parallelism: 10
+
+#       - name: Replace Table of Contents
+#         uses: richardrigutins/replace-in-files@v2
+#         with:
+#           files: "${{env.GITHUB_REPOSITORY}}/**/*.md"
+#           search-text: "[[Return to Table of Contents]]"
+#           replacement-text: "[Return to Table of Contents](README.md)"
+#           encoding: 'utf8'
+#           max-parallelism: 10
+
+
+
+name: My Workflow
+
+on: [push, pull_request]
 
 jobs:
-  find-and-replace-job:
+  build:
     runs-on: ubuntu-latest
-    name: 'Find and replace master glossary'
     steps:
-      # Replace all the occurrences of 'hello' with 'world' in all the txt files, 
-      # excluding the node_modules folder
-      - name: Replace Master Glossary
-        uses: richardrigutins/replace-in-files@v2
+     
+      - uses: actions/checkout@main
+     
+      - name: Find and Replace
+        uses: thiagodnf/string-replacer@v1.0.2
         with:
-          files: "${{env.GITHUB_REPOSITORY}}/**/*.md"
-          search-text: "[[Master Glossary]]"
-          replacement-text: "[Master Glossary](Main/Master Glossary.md)"
-          encoding: 'utf8'
-          max-parallelism: 10
+          find: "[[Master Glossary]]"
+          replace: "[Master Glossary](Main/Master Glossary.md)"
+          include: |
+            **/*.md
+          exclude: |
+            .git/**
+            node_modules/**
 
-      - name: Replace Table of Contents
-        uses: richardrigutins/replace-in-files@v2
-        with:
-          files: "${{env.GITHUB_REPOSITORY}}/**/*.md"
-          search-text: "[[Return to Table of Contents]]"
-          replacement-text: "[Return to Table of Contents](README.md)"
-          encoding: 'utf8'
-          max-parallelism: 10
-      
+
+            
       # Replace all the occurrences of '{0}' with '42' in the README.md file
       #- name: Replace single file
       #  uses: richardrigutins/replace-in-files@v2
