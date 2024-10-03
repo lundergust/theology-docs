@@ -1,6 +1,6 @@
 # README
 ## Table of Contents
-- [[Master Glossary]]
+- [Master Glossary](Main/Master Glossary.md)
 ## Theology
 - [[Atonement]]
 - [[Ecumenical Councils]]
