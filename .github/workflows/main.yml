@@ -39,10 +39,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@v3
-        find: '[[Master Glossary]]'
-        replace: '[Master Glossary](Main/Master Glossary.md)'
-        regex: false
-        exclude: .
+        with:
+          find: '[[Master Glossary]]'
+          replace: '[Master Glossary](Main/Master Glossary.md)'
+          regex: false
+          exclude: .
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
 
