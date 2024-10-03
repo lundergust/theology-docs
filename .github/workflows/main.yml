@@ -26,28 +26,29 @@
 #           max-parallelism: 10
 
 
+
+
 name: My Workflow
 on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
-      - name: Find and Replace - MasterGlossary
+      - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: '[[Master Glossary]]'
-          replace: '[Master Glossary](Main/Master Glossary.md)'
-          regex: false
-          include: 'README.md'
-      - uses: actions/checkout@v2
-      - name: Find and Replace - Table of Contents
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: '[[Return to Table of Contents]]'
-          replace: '[Return to Table of Contents](README.md)'
-          regex: false
-          include: '**/*.md'
+        find: '[[Master Glossary]]'
+        replace: '[Master Glossary](Main/Master Glossary.md)'
+        regex: false
+        exclude: .
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+
+
+
+
 
       # - uses: actions/checkout@main     
       # - name: Find and Replace
