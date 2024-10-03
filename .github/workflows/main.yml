@@ -41,8 +41,8 @@ jobs:
       - name: Find and Replace
         uses: thiagodnf/string-replacer@v1.0.2
         with:
-          find: "[[Master Glossary]]"
-          replace: "[Master Glossary](Main/Master Glossary.md)"
+          find: '[[Master Glossary]]'
+          replace: '[Master Glossary](Main/Master Glossary.md)'
           include: |
             **/*.md
           exclude: |
