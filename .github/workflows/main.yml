@@ -27,19 +27,24 @@
 
 
 name: My Workflow
-
 on: [push, pull_request]
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: flcdrg/replace-multiple-action@v1
+      - uses: actions/checkout@v2
+      - name: Find and Replace - Master Glossary
+        uses: seripap/gha-find-replace@v1
         with:
-            files: '**/*.md'
-            find: '[{ "find": "[[Master Glossary]]", "replace": "[Master Glossary](Main/Master Glossary.md)"},{ "find": "[[Return to Table of Contents]]", "replace": "[Return to Table of Contents](README.md)" }]'
-            #prefix: '(^|\\s+|\\()'
-            #suffix: '($|\\s+|\\))'
+          find: "[[Master Glossary]]"
+          replace: "[Master Glossary](Main/Master Glossary.md)"
+          regex: false
+      - name: Find and Replace - Table of Contents
+        uses: seripap/gha-find-replace@v1
+        with:
+          find: "[[Return to Table of Contents]]"
+          replace: "[Return to Table of Contents](README.md)"
+          regex: false
 
       # - uses: actions/checkout@main     
       # - name: Find and Replace
