@@ -34,11 +34,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: frabert/replace-string-action@v2
+      - uses: flcdrg/replace-multiple-action@v1
         with:
-          pattern: '[[Master Glossary]]' # regex
-          string: '[[Master Glossary]]'
-          replace-with: '[Master Glossary](Main/Master Glossary.md)'
+            files: '**/*.md'
+            find: '[{ "find": "[[Master Glossary]]", "replace": "[Master Glossary](Main/Master Glossary.md)"},{ "find": "[[Return to Table of Contents]]", "replace": "[Return to Table of Contents](README.md)" }]'
+            #prefix: '(^|\\s+|\\()'
+            #suffix: '($|\\s+|\\))'
 
       # - uses: actions/checkout@main     
       # - name: Find and Replace
