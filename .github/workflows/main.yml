@@ -39,7 +39,7 @@ jobs:
           find: '[[Master Glossary]]'
           replace: '[Master Glossary](Main/Master Glossary.md)'
           regex: false
-          include: '**/*.md'
+          include: 'README.md'
       - uses: actions/checkout@v2
       - name: Find and Replace - Table of Contents
         uses: jacobtomlinson/gha-find-replace@v3
