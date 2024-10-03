@@ -36,16 +36,18 @@ jobs:
       - name: Find and Replace - MasterGlossary
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "[[Master Glossary]]"
-          replace: "[Master Glossary](Main/Master Glossary.md)"
+          find: '[[Master Glossary]]'
+          replace: '[Master Glossary](Main/Master Glossary.md)'
           regex: false
+          include: '**/*.md'
       - uses: actions/checkout@v2
       - name: Find and Replace - Table of Contents
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "[[Return to Table of Contents]]"
-          replace: "[Return to Table of Contents](README.md)"
+          find: '[[Return to Table of Contents]]'
+          replace: '[Return to Table of Contents](README.md)'
           regex: false
+          include: '**/*.md'
 
       # - uses: actions/checkout@main     
       # - name: Find and Replace
