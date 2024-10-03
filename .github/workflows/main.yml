@@ -1,26 +1,26 @@
-name: Convert Bear Link to Markdown Link Workflow
-on: [push, pull_request]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v2
-      - name: Find and Replace - Return to Master Glossary
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: '[[Return to Master Glossary]]'
-          replace: '[Return to Master Glossary](Main/Master&#32;Glossary.md)'
-          regex: false
-          exclude: '*.yml'
-      - name: Find and Replace - Return to Table of Contents
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: '[[Return to Table of Contents]]'
-          replace: '[Return to Table of Contents](README.md)'
-          regex: false
-          exclude: '*.yml'
+#name: Convert Bear Link to Markdown Link Workflow
+#on: [push, pull_request]
+#jobs:
+  #build:
+    #runs-on: ubuntu-latest
+    #permissions:
+      #contents: write
+    #steps:
+      #- uses: actions/checkout@v2
+      #- name: Find and Replace - Return to Master Glossary
+        #uses: jacobtomlinson/gha-find-replace@v3
+        #with:
+          #find: '[[Return to Master Glossary]]'
+          #replace: '[Return to Master Glossary](Main/Master&#32;Glossary.md)'
+          #regex: false
+          #exclude: '*.yml'
+      #- name: Find and Replace - Return to Table of Contents
+        #uses: jacobtomlinson/gha-find-replace@v3
+        #with:
+          #find: '[[Return to Table of Contents]]'
+          #replace: '[Return to Table of Contents](README.md)'
+          #regex: false
+          #exclude: '*.yml'
 #      - name: Find and Replace - Regex
         #uses: jacobtomlinson/gha-find-replace@v3
         #with:
