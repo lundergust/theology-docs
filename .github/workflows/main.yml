@@ -10,7 +10,7 @@ jobs:
       - name: Replace Master Glossary
         uses: richardrigutins/replace-in-files@v2
         with:
-          files: "**/*.md"
+          files: "${{GITHUB_WORKSPACE}}/**/*.md"
           search-text: "[[Master Glossary]]"
           replacement-text: "[Master Glossary](Main/Master Glossary.md)"
           encoding: 'utf8'
@@ -19,7 +19,7 @@ jobs:
       - name: Replace Table of Contents
         uses: richardrigutins/replace-in-files@v2
         with:
-          files: "**/*.md"
+          files: "${{GITHUB_WORKSPACE}}/**/*.md"
           search-text: "[[Return to Table of Contents]]"
           replacement-text: "[Return to Table of Contents](README.md)"
           encoding: 'utf8'
