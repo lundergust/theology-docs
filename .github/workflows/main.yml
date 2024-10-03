@@ -32,5 +32,27 @@ jobs:
 #      - name: Push changes
         #uses: stefanzweifel/git-auto-commit-action@v4
 
-
+name: Convert Markdown Link to Bear Link Workflow
+on: [post-merge]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - name: Find and Replace - Return to Master Glossary
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: '[Return to Master Glossary](Main/Master&#32;Glossary.md)'
+          replace: '[[Return to Master Glossary]]'
+          regex: false
+          exclude: '*.yml'
+      - name: Find and Replace - Return to Table of Contents
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: '[Return to Table of Contents](README.md)'
+          replace: '[[Return to Table of Contents]]'
+          regex: false
+          exclude: '*.yml'
     
