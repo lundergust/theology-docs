@@ -41,7 +41,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: '[[Master Glossary]]'
-          replace: '[Master Glossary](Main/Master Glossary.md)'
+          replace: '[Master Glossary](Main/Master&#32;Glossary.md)'
           regex: false
           exclude: '*.yml'
       - name: Push changes
