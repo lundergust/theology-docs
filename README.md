@@ -1,5 +1,5 @@
 # README
-## Table of Contents
+## Table of Contents test
 - [[Master Glossary]]
 ## Theology
 - [[Atonement]]
