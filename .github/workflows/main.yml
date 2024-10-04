@@ -16,7 +16,7 @@ jobs:
     
       - name: Run Push Python Script
         run: python .github/worflows/python/push.py
-        working-directory ${{ github.workspace }}/..
+        working-directory: ${{ github.workspace }}/..
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
