@@ -1,7 +1,7 @@
-[Anepsios (cousin)](Anepsios_(cousin).md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
-- [Back to Mariology](Mariology.md)
+# Anepsios (cousin)
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
+- [[Mariology | Back to Mariology]]
 
 *Anepsios* is never used to describe James, or the other 'brothers' of Jesus
 However, *Anepsios* is only used once in the NT (Colossians)

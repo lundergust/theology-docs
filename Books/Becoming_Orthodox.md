@@ -1,6 +1,6 @@
-[Becoming Orthodox](Becoming_Orthodox.md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
+# Becoming Orthodox
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
 
 Author: Peter Gilquist
 ## Worship

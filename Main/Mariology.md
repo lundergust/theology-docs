@@ -1,6 +1,6 @@
-# Mariology
-- [[README | Return to Table Of Contents]]
-- [[Master Glossary | Return to Master Glossary]]
+[Mariology](Mariology.md)
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 | Term | Definition|
 | ---- | --------- |
@@ -12,11 +12,11 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 
 | Word                                                         | Translation           |
 |--------------------------------------------------------------|-----------------------|
-| [[achri (untill) \[ $\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$ \]]] | Until                 |
-| [[Adelphoi (brother)]]                                       | Brother (loosly)      |
-| [[Anepsios (cousin)]]                                        | Cousin, Nephew, niece |
+| [achri (untill) \[ $\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$ \](achri_(untill)_\[_$\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$_\.md)] | Until                 |
+| [Adelphoi (brother)](Adelphoi_(brother).md)                                       | Brother (loosly)      |
+| [Anepsios (cousin)](Anepsios_(cousin).md)                                        | Cousin, Nephew, niece |
 | delphys                                                      | Womb                  |
-| [[<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek> (till) \[ $\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$ \]]] | Until                 |
+| [<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek> (till) \[ $\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$ \](<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek>_(till)_\[_$\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$_\.md)] | Until                 |
 
 
 
@@ -132,7 +132,7 @@ Calvin's views are summarized in the Second Helvetic Confession, by Heinrich Bul
 
 ## Pushback
 Notable writers or groups who argued against various Marian ideas include:
-- [[Tertullian | Tertullian (155-220 AD)]]
+- [Tertullian (155-220 AD)](Tertullian.md)
 - Antedicomarians (3rd - 5th Century)
   - Refused Mary any special status
   - Considered Joseph to be a widower with 6 previous children

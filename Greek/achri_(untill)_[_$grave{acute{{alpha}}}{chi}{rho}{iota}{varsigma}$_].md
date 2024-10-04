@@ -1,7 +1,7 @@
-[achri (untill) [ $\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$ ]](achri_(untill)_[_$\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$_].md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
-- [Back to Mariology](Mariology.md)
+# achri (untill) [ $\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$ ]
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
+- [[Mariology | Back to Mariology]]
 
 ### Similar uses in NT
 - 1. As a preposition it takes the genitive, and is used

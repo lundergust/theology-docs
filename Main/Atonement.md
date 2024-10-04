@@ -1,6 +1,6 @@
-# Atonement
-- [[README | Return to Table Of Contents]]
-- [[Master Glossary | Return to Master Glossary]]
+[Atonement](Atonement.md)
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 | Term | Definition| 
 | ---- | --------- | 
