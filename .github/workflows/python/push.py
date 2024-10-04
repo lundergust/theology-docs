@@ -27,7 +27,7 @@ def replace_custom_links(content):
 
 # Function to replace custom link format with Markdown links
 def replace_standard_links(content):
-
+	
 	def replacement(match):
 		file_name = match.group(1).strip()  # Extract the file name
 		file_name_formatted = file_name.replace(" ", "_")
@@ -37,7 +37,7 @@ def replace_standard_links(content):
 
 
 def replace_bear_titles(content):
-
+	
 	def replacement(match):
 		file_name = match.group(1)  # Extract the file name
 		file_name_formatted = file_name.replace(" ", "_")
@@ -75,7 +75,7 @@ def process_file(file_path):
 	
 	# Replace soace with _ in filenames
 	file_path_formatted = file_path.replace(" ","_")
-	os.rename(f"{repo_path}/{file_path_formatted}",)
+	os.rename(f"{repo_path}/{file_path}", f"{repo_path}/{file_path_formatted}")
 	if updated_content != content:
 		# Write the updated content back to the file
 		with open(file_path, 'w', encoding='utf-8') as file:
