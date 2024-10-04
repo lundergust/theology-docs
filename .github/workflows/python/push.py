@@ -72,14 +72,17 @@ def process_file(file_path):
 	updated_content = replace_custom_links(content)
 	updated_content = replace_standard_links(updated_content)
 	updated_content = replace_bear_titles(updated_content)
-
+	
+	# Replace soace with _ in filenames
+	file_path_formatted = file_path.replace(" ","_")
+	os.rename(f"{repo_path}/{file_path_formatted}",)
 	if updated_content != content:
 		# Write the updated content back to the file
 		with open(file_path, 'w', encoding='utf-8') as file:
 			file.write(updated_content)
-
-		# Add the modified file back to the staging area
-		subprocess.run(['git', 'add', file_path])
+  
+	# Add the modified file back to the staging area
+	subprocess.run(['git', 'add', file_path])
 
 
 def main():
