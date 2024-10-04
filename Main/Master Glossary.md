@@ -1,5 +1,5 @@
 # Master Glossary
-- [[Table of Contents|Return to Table of Contents]]
+- [[Table of Contents|Return to Table of Contents[](.md)[](.md)[](.md)]]
 
 | Term | Definition| Theologians | 
 | ---- | --------- | ----------- | 

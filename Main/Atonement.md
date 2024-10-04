@@ -1,5 +1,5 @@
 # Atonement
-- [[Table of Contents|Return to Table of Contents]]
+- [[Table of Contents|Return to Table of Contents[](.md)[](.md)[](.md)]]
 - [[Master Glossary|Return to Master Glossary ]]
 
 | Term | Definition| 
