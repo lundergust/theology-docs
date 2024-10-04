@@ -7,9 +7,8 @@ import subprocess
 repo_path = os.environ['GITHUB_WORKSPACE']
 
 # Regex to match text like [[Test File | return to test file]]
-#custom_link_pattern = re.compile(r'\[\[([^|\]]+)\s*\|\s*([^\]]+)\]\]')
-#link_pattern = re.compile(r'\[\[([^|\]]+)\s*([^\]]+)\]\]')
 
+bear_title_pattern = re.compile(r'#\s+(.+)')
 custom_link_pattern = re.compile(r'\[\[\s*([^\|\]]+)\s*\|\s*([^\]]+)\s*\]\]')
 link_pattern = re.compile(r'\[\[\s*([^\]]+)\s*\]\]')
 
@@ -18,6 +17,7 @@ def replace_custom_links(content):
     def replacement(match):
         file_name = match.group(1).strip()  # Extract the file name
         link_text = match.group(2).strip()  # Extract the link text
+        file_name.replace(" ","_")
         return f"[{link_text}]({file_name}.md)"  # Convert to Markdown format
 
     return custom_link_pattern.sub(replacement, content)
@@ -26,9 +26,20 @@ def replace_custom_links(content):
 def replace_standard_links(content):
     def replacement(match):
         file_name = match.group(1).strip()  # Extract the file name
-        return f"[{file_name}]({file_name}.md)"  # Convert to Markdown format
+        file_name_formatted.replace(" ","_")
+        return f"[{file_name}]({file_name_formatted}.md)"  # Convert to Markdown format
 
-    return custom_link_pattern.sub(replacement, content)
+    return link_pattern.sub(replacement, content)
+    
+
+def replace_bear_titles(content):
+	def replacement(match):
+        file_name = match.group(1)  # Extract the file name
+        file_name_formatted = file_name.replace(" ","_")
+        return f"[{file_name}]({file_name_formatted}.md)"  # Convert to Markdown format
+
+    return bear_title_pattern.sub(replacement, content)
+    
 
 def get_all_files():
     """Get a list of files in repo"""
@@ -53,6 +64,7 @@ def process_file(file_path):
     # Replace custom links with Markdown links
     updated_content = replace_custom_links(content)
     updated_content = replace_standard_links(updated_content)
+    updated_content = replace_bear_titles(updated_content)
 
     if updated_content != content:
         # Write the updated content back to the file
