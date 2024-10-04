@@ -1,12 +1,12 @@
-# Eternal Security
-- [[README | Return to Table Of Contents]]
-- [[Master Glossary | Return to Master Glossary]]
+[Eternal Security](Eternal_Security.md)
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 Also known as **"Once save always saved"**, this is the idea that believers are 100% confident they are saved. 
-Builds off of the Calvinist doctrine [[Perseverance of the Saints]]
+Builds off of the Calvinist doctrine [Perseverance of the Saints](Perseverance_of_the_Saints.md)
 
 ## Emergence<!-- {"fold":true} -->
-- 5th Century, see [[Perserverance of the saints]]
+- 5th Century, see [Perserverance of the saints](Perserverance_of_the_saints.md)
 - 16th Century, John Calvin builds off Augustinian view of Predestination and Predetermination to define Perserverance of the saints.
 - 19th-20th Century, *eternal security* starts popping up in Evangelical circles 
   - 1873 - Southern Baptist

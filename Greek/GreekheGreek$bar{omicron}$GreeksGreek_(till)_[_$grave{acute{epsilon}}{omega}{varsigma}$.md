@@ -1,7 +1,7 @@
-# <Greek>he</Greek>$\bar{\omicron}$<Greek>s</Greek> (till) [ $\grave{\acute{\epsilon}}{\omega}{\varsigma}$ 
-- [[README | Return to Table Of Contents]]
-- [[Master Glossary | Return to Master Glossary]]
-- [[Mariology | Back to Mariology]]
+[<Greek>he</Greek>$\bar{\omicron}$<Greek>s</Greek> (till) [ $\grave{\acute{\epsilon}}{\omega}{\varsigma}$ ](<Greek>he</Greek>$\bar{\omicron}$<Greek>s</Greek>_(till)_[_$\grave{\acute{\epsilon}}{\omega}{\varsigma}$_.md)
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
+- [Back to Mariology](Mariology.md)
 
 ## Old Testament
 |      |           |
