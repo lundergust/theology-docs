@@ -15,7 +15,7 @@ jobs:
           python-version: '3.10'
     
       - name: Run Push Python Script
-        run: python .github/worflows/python/push.py
+        run: python .github/workflows/python/push.py
         working-directory: ${{ github.workspace }}/..
 
       - name: Commit changes
