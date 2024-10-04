@@ -8,7 +8,7 @@ repo_path = os.environ['GITHUB_WORKSPACE']
 
 # Regex to match text like [[Test File | return to test file]]
 
-bear_title_pattern = re.compile(r'#\s+(.+)')
+bear_title_pattern = re.compile(r'^\#\s+(.+)')
 custom_link_pattern = re.compile(r'\[\[\s*([^\|\]]+)\s*\|\s*([^\]]+)\s*\]\]')
 link_pattern = re.compile(r'\[\[\s*([^\]]+)\s*\]\]')
 
