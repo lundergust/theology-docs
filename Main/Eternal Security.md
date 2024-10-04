@@ -1,23 +1,23 @@
-[Eternal Security](Eternal_Security.md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
+# Eternal Security
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
 
 Also known as **"Once save always saved"**, this is the idea that believers are 100% confident they are saved. 
-Builds off of the Calvinist doctrine [Perserverance of the saints](Perserverance_Of_The_Saints.md)
+Builds off of the Calvinist doctrine [[Perseverance of the Saints]]
 
-#[Emergence](Emergence.md)
-- 5th Century, see [Perserverance of the saints](Perserverance_Of_The_Saints.md)
+## Emergence<!-- {"fold":true} -->
+- 5th Century, see [[Perserverance of the saints]]
 - 16th Century, John Calvin builds off Augustinian view of Predestination and Predetermination to define Perserverance of the saints.
 - 19th-20th Century, *eternal security* starts popping up in Evangelical circles 
   - 1873 - Southern Baptist
   - 1913 - Plymouth Bretheren
 
-#[Differing Views](Differing_Views.md)
+## Differing Views<!-- {"fold":true} -->
 1. Believer is elect by divine predetermination (Calvin)
 2. Regerenation leads to unconditional perserverance (Non-Calvin, majority)
 3. Regeneration leads to salvation independently of perserverance (Free Grace)
 
-##[Calvinist Theology](Calvinist_Theology.md)
+## Calvinist Theology<!-- {"fold":true} -->
 - Theological determinism -> Every world event is determined by God
 - God determines whether an individual is saved or damned
 - Perserverance of the saints grants unconditional preservation of  the elect
@@ -36,19 +36,19 @@ Builds off of the Calvinist doctrine [Perserverance of the saints](Perserverance
     2. Discern the influence of Holy Spirit through self-examination
        - This leads to faith in their own predetermined election
 
-##[Southern Baptist Theology](Southern_Baptist_Theology.md)
-- 1830s, groups departed from strict orthodox Calvanism
+## Southern Baptist Theology<!-- {"fold":true} -->
+1830s, groups departed from strict orthodox Calvanism
 - Individuals have the libertarian free will to choose faith through grace.
 - Regardless of any action after regeneration, whether they continue to believe or not, they will be saved
   - James Robinson Graves
   - W.P. Bennett
 
-##[Plymouth Brethren Theology (Calvinistic dispensationalism)](Plymouth_Brethren_Theology_(Calvinistic_dispensationalism).md)
+## Plymouth Brethren Theology (Calvinistic dispensationalism)<!-- {"fold":true} -->
 - Anglican Calvinist leader John Nelson Darby 1800s
 - Dispensationlism allows perserverance of saints to merge with libertarian free will
 
-#[Exegesis](Exegesis.md)
-##[Hebrews 6:4-6, 10:26-39](Hebrews_6:4-6,_10:26-39.md)
+## Exegesis
+### Hebrews 6:4-6, 10:26-39
 - **Hypothetical view**
   - Warnings are hypothetical, intending to scare believers into perserverance
   - Or desribes temporary backsliding
@@ -60,7 +60,7 @@ Builds off of the Calvinist doctrine [Perserverance of the saints](Perserverance
 
 
 
-#[Reception](Reception.md)
+## Reception
 - Explicitly condemned by the Council of Trent (1545-1563)
 
 

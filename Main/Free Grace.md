@@ -1,7 +1,6 @@
-[Free Grace](Free_Grace.md)
-
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
+# Free Grace
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
 
 The only condition for salvation is faith, excluding good works and perserverance, with eternal security. 
 Good works are part of discipleship, and result in more eternal rewards.
@@ -11,28 +10,28 @@ However, there is some divine punishment that is not damnation.
 - Salvation = the call to believe in Christ and receive eternal life
 - Discipleship = the call to follow cChrist and be obedient
 
-#[Beliefs](Beliefs.md)
+## Beliefs
 1. Faith Alone
-    - John 3:14-17
-    - Numbers 21
+   - John 3:14-17
+   - Numbers 21
 2. Relationship differs from intimacy
-    - Being reborn as Christs follower gives familial relationship, but not intimacy, which comes by obedience
+   - Being reborn as Christs follower gives familial relationship, but not intimacy, which comes by obedience
 3. Justification differs from sanctification
-    - Justification is free gift
-    - Sanctification comes by obedience, and is not gauranteed
+   - Justification is free gift
+   - Sanctification comes by obedience, and is not gauranteed
 4. Eternal security
 5. Rewards and Discipline
-    - Judgement day gives rewards or temporary punishments, but not heaven or hell.
+   - Judgement day gives rewards or temporary punishments, but not heaven or hell.
 
-#[Views on Repentance](Views_on_Repentance.md)
+## Views on Repentance
 1. Change of mind, not a turning from sin (synonym for faith)
 2. Turning from sin, but not a requirement for eternal life
 
-#[Works](Works.md)
+## Works
 - James 2:17
-    - Dead faith refers to one that is not profitable in the judgement seat
+  - Dead faith refers to one that is not profitable in the judgement seat
 
-#[Atonement](Atonement.md)
+## Atonement
 - Unlimited
 - Penal substitution
 

@@ -1,9 +1,9 @@
-[<Greek>he</Greek>$\bar{\omicron}$<Greek>s</Greek> (till) [ $\grave{\acute{\epsilon}}{\omega}{\varsigma}$ ]](<Greek>he</Greek>$\bar{\omicron}$<Greek>s</Greek>_(till)_[_$\grave{\acute{\epsilon}}{\omega}{\varsigma}$_].md)
-- [Back to table of contents](../README.md)
-- [Back to glossary](../Glossary.md)
-- [Back to mariology](../Mariology.md)
+# <Greek>he</Greek>$\bar{\omicron}$<Greek>s</Greek> (till) [ $\grave{\acute{\epsilon}}{\omega}{\varsigma}$ 
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
+- [[Mariology | Back to Mariology]]
 
-#[Old Testament](Old_Testament.md)
+## Old Testament
 |      |           |
 | ---- | --------- |
 | Psalm 72:7 | *In His days shall shine forth righteousness and an abundance of peace, until the moon be taken away* | 
@@ -11,7 +11,7 @@
 | ... |  | 
 
 
-#[New Testament](New_Testament.md)
+## New Testament
 Occurs 148 times in 139 verses
 - <g>Support P.V. = 0/148</g>
 - <o>Against P.V. = 1/148</o>
@@ -32,11 +32,11 @@ Occurs 148 times in 139 verses
 | ... |  | 
 
 
-##[Similar uses in NT](Similar_uses_in_NT.md)
+### Similar uses in NT
 - II. By usage chiefly later it gets the force of an abverb, and 
-    - 1. Used of a temporal terminus ad quem, **until** (unto)
-        - b. with the genitive of the neuter relative pronoun ${\omicron}\tilde{\grave{\upsilon}}$ or $\tilde{\acute{\omicron}}{\tau}{\omicron}{\upsilon}$ it gets the force of a conjunction, **until**, **till** (the time when);
-            - ${\alpha}$. $\acute{\grave{\epsilon}}{\omega}{\varsigma}$  ${\omicron}\tilde{\grave{\upsilon}}$  (<Greek>he</Greek>$\bar{o}$<Greek>s</Greek> hos) followed by the indicative 
+  - 1. Used of a temporal terminus ad quem, **until** (unto)
+    - b. with the genitive of the neuter relative pronoun ${\omicron}\tilde{\grave{\upsilon}}$ or $\tilde{\acute{\omicron}}{\tau}{\omicron}{\upsilon}$ it gets the force of a conjunction, **until**, **till** (the time when);
+      - ${\alpha}$. $\acute{\grave{\epsilon}}{\omega}{\varsigma}$  ${\omicron}\tilde{\grave{\upsilon}}$  (<Greek>he</Greek>$\bar{o}$<Greek>s</Greek> hos) followed by the indicative 
 
 It seems like the verse in Acts rejects P.V., but the other two verses might support P.V.
 

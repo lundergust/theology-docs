@@ -1,10 +1,9 @@
-[Perserverance of the saints](Perserverance_of_the_saints.md)
-
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
+# Perseverance of the saints
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
 
 The elect will receive salvation. 
-Also called Preservation of the saints, empahasizing that God determines who is elect and who preserveres. 
+Also called Preservation of the saints, emphasizing that God determines who is elect and who preserveres. 
 But, believers cannot have certainty of their own salvation.
 
 ## Emergence

@@ -1,7 +1,7 @@
-[Adelphoi (brother)](Adelphoi_(brother).md)
-- [Back to table of contents](../README.md)
-- [Back to glossary](../Glossary.md)
-- [Back to mariology](../Mariology.md)
+# Adelphoi (brother)
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
+- [[Mariology | Back to Mariology]]
 
 According to context, *adelphoi* from the 'same' *delphys* can mean the following:
 - Physical Brothers

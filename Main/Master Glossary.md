@@ -1,33 +1,33 @@
-[Master Glossary](Master_Glossary.md)
+# Master Glossary
 
-- [Return to Table Of Contents](README.md)
+- [[README | Return to Table Of Contents]]
 
-| Term | Definition| Theologians | 
-| ---- | --------- | ----------- | 
-| Apostasy | Repudiation of Christ by a Christian |  |
-| Asceticism | Abstinence from worldly pleasure, for pursuing spiritual goals |  |
-| [Atonement](Atonement.md) | Jesus's death and resuurrection reconciling sinners with God |  |
-| Common grace | Grace is common to everyone within a specific group. Benefits are intended for everyone without distinction | Reformed |
-| Dispensationilsm | History is divided into multiple ages, or dispensations, in which God interacts with chosen people in different ways | Philip Mauro |
-| [Ecumenical Council](Ecumenical_Councils.md) | A meeting of church bishops which dictates dogma/canon, etc, held to be infallibile and universal in EO church. |  |
-| Effectual Calling | God calling a person to himself |  |
-| [Elect](Election.md) | A person chosen by God to receive His saving grace and be predestined for eternal life | Calvin |
-| Eternal Calling | When someone hears the gospel |  |
-| [Eternal Security](Eternal_Security.md) | Believers have absolute assurance of their salvation | Calvin |
-| [Free Grace](Free_Grace.md) | Only condition of salvation is faith, excluding good works and perserverance, with eternal security |  |
-| Irresistible grace | The saving grace of God is effectually applied to the elect, where God overcomes the individuals resistance to the gospel |  |
-| Libertarian Free Will | Belief that since Free will exists, determinism must be false | - |
-| Manichaeism | Dualistic worldview where good (spiritual) and evil (material) are battling | Mani (3rd Cen) |
-| [Perserverance of the saints](Perserverance_Of_The_Saints.md) | The **elect** will perservere in the faith and acheive salvation | Augustine, Calvin |
-| Predeterminism | All events have been determined by God | Augustine |
-| Predestination | All events in reference to the fate of the individual soul has been determined by God | Augustine |
-| Prevenient grace | God's grace precedes and prepares for conversion. Can be accepted or rejected | Augustine, Catholic, Reformed |
-| Special grace | Grace that extends only to the elect | Calvin |
-| Temporary grace | Appears and works in a person only for a while, then disappears |  |
-| Universalism | All humans will ultimately be saved |  |
+| Term                           | Definition                                                   | Theologians                   |
+|--------------------------------|--------------------------------------------------------------|-------------------------------|
+| Apostasy                       | Repudiation of Christ by a Christian                         |                               |
+| Asceticism                     | Abstinence from worldly pleasure, for pursuing spiritual goals |                               |
+| [[Atonement]]                  | Jesus's death and resuurrection reconciling sinners with God |                               |
+| Common grace                   | Grace is common to everyone within a specific group. Benefits are intended for everyone without distinction | Reformed                      |
+| Dispensationilsm               | History is divided into multiple ages, or dispensations, in which God interacts with chosen people in different ways | Philip Mauro                  |
+| [[Ecumenical Council]]         | A meeting of church bishops which dictates dogma/canon, etc, held to be infallibile and universal in EO church. |                               |
+| Effectual Calling              | God calling a person to himself                              |                               |
+| [[Elect]]                      | A person chosen by God to receive His saving grace and be predestined for eternal life | Calvin                        |
+| Eternal Calling                | When someone hears the gospel                                |                               |
+| [[Eternal Security]]           | Believers have absolute assurance of their salvation         | Calvin                        |
+| [[Free Grace]]                 | Only condition of salvation is faith, excluding good works and perserverance, with eternal security |                               |
+| Irresistible grace             | The saving grace of God is effectually applied to the elect, where God overcomes the individuals resistance to the gospel |                               |
+| Libertarian Free Will          | Belief that since Free will exists, determinism must be false | -                             |
+| Manichaeism                    | Dualistic worldview where good (spiritual) and evil (material) are battling | Mani (3rd Cen)                |
+| [[Perseverance of the Saints]] | The **elect** will perservere in the faith and acheive salvation | Augustine, Calvin             |
+| Predeterminism                 | All events have been determined by God                       | Augustine                     |
+| Predestination                 | All events in reference to the fate of the individual soul has been determined by God | Augustine                     |
+| Prevenient grace               | God's grace precedes and prepares for conversion. Can be accepted or rejected | Augustine, Catholic, Reformed |
+| Special grace                  | Grace that extends only to the elect                         | Calvin                        |
+| Temporary grace                | Appears and works in a person only for a while, then disappears |                               |
+| Universalism                   | All humans will ultimately be saved                          |                               |
 
 
-[Heresies](Heresies.md)
+## Heresies
 | Term | Definition| Time Period | 
 | ---- | --------- | ----------- | 
 | Docetism | Jesus Christ was not human, but his form was merely an illusion | 2nd Cen |

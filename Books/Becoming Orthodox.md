@@ -1,30 +1,30 @@
-[Becoming Orthodox](Becoming_Orthodox.md)
-- [Back to table of contents](../README.md)
-- [Back to glossary](../Glossary.md)
+# Becoming Orthodox
+- [[README | Return to Table Of Contents]]
+- [[Master Glossary | Return to Master Glossary]]
 
 Author: Peter Gilquist
-#[Worship](Worship.md)
+## Worship
 Early Church worship was liturgical. Three main early sources:
 - Didache - *The teaching of the twelve* (70 AD)
-    - Eucharist
+  - Eucharist
 - St. Justin Martyr - First Apology (150 AD)
-    - Pattern of Christian worship
-        - Synaxis (meeting)
-            - Greeting and Response
-            - Hymns
-            - Readings from Scripture (the *Apostles Memoirs*)
-            - The Homily
-            - Dismissal of those not in the Church
-        - Eucharist (the thanksgiving)
-            - Intercessory Prayers
-            - Offeratory of bread and wine
-            - Consecration of Gifts
-            - Communion
-            - Giving of Thanks
-            - Benediction
-            - Form of this is based upon liturgy of Old Testament Priest in the temple
+  - Pattern of Christian worship
+    - Synaxis (meeting)
+      - Greeting and Response
+      - Hymns
+      - Readings from Scripture (the *Apostles Memoirs*)
+      - The Homily
+      - Dismissal of those not in the Church
+    - Eucharist (the thanksgiving)
+      - Intercessory Prayers
+      - Offeratory of bread and wine
+      - Consecration of Gifts
+      - Communion
+      - Giving of Thanks
+      - Benediction
+      - Form of this is based upon liturgy of Old Testament Priest in the temple
 - Apostolic Tradition of Hypolytus (200 AD)
-    - Mostly backed up Justin Martyr
+  - Mostly backed up Justin Martyr
 
 
 1 Corinthians 11
@@ -46,19 +46,19 @@ Early Church worship was liturgical. Three main early sources:
 
 
 
-#[Eucharist](Eucharist.md)
+## Eucharist
 - Eucharist was seen as both a symbol, and a substance
-    - but no transubstantiation until centuries later
-    - Key word is *mystery*
+  - but no transubstantiation until centuries later
+  - Key word is *mystery*
 - Consecrated bread and wine are actual body and blood of Christ, but we dont know how
 - 1 Corinthians 11
-    - Why would people get sick and die if the eucharist is just a symbol?
+  - Why would people get sick and die if the eucharist is just a symbol?
 
 
-#[Church History](Church_History.md)
+## Church History
 - Bishops are present before 100 AD
-    - Polycarp, Bishop of Smyrna
-        - Iraneaus says he was the spiritual son of Apostle John
+  - Polycarp, Bishop of Smyrna
+    - Iraneaus says he was the spiritual son of Apostle John
 
 
 
