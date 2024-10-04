@@ -47,7 +47,7 @@ def is_markdown_file(file_path):
 
 def process_file(file_path):
     """Read, modify, and update the file content"""
-    with open(f"{repo_path}\{file_path}", 'r', encoding='utf-8') as file:
+    with open(f"{repo_path}/{file_path}", 'r', encoding='utf-8') as file:
         content = file.read()
 
     # Replace custom links with Markdown links
