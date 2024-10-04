@@ -1,6 +1,6 @@
 # Justification
-- [[Table of Contents|Return to Table of Contents]]
-- [[Master Glossary|Return to Master Glossary ]]
+- [Return to Table of Contents](Table of Contents.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 The process or state of becoming righteous.
 

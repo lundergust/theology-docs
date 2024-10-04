@@ -1,6 +1,6 @@
 # Free Grace
-- [[Table of Contents|Return to Table of Contents]]
-- [[Master Glossary|Return to Master Glossary ]]
+- [Return to Table of Contents](Table of Contents.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 The only condition for salvation is faith, excluding good works and perserverance, with eternal security. 
 Good works are part of discipleship, and result in more eternal rewards.
