@@ -1,5 +1,5 @@
 # Eternal Security
-- [[Table of Contents|Return to Table of Contents[](.md)[](.md)[](.md)]]
+- [[Table of Contents|Return to Table of Contents]]
 - [[Master Glossary|Return to Master Glossary ]]
 
 Also known as **"Once save always saved"**, this is the idea that believers are 100% confident they are saved. 

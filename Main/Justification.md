@@ -1,5 +1,5 @@
 # Justification
-- [[Table of Contents|Return to Table of Contents[](.md)[](.md)[](.md)]]
+- [[Table of Contents|Return to Table of Contents]]
 - [[Master Glossary|Return to Master Glossary ]]
 
 The process or state of becoming righteous.

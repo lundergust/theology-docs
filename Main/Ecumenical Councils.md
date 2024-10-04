@@ -1,5 +1,5 @@
 # Ecumenical Councils
-- [[Table of Contents|Return to Table of Contents[](.md)[](.md)[](.md)]]
+- [[Table of Contents|Return to Table of Contents]]
 - [[Master Glossary|Return to Master Glossary ]]
 
 ## Seven Ecumenical Councils of the Orthodox Church
