@@ -1,6 +1,7 @@
 name: Replace Bear Link with Markdown Link
 on:
   push:
+
 jobs:
   run_python_script:
     runs-on: ubuntu-latest
@@ -15,7 +16,7 @@ jobs:
     
       - name: Run Push Python Script
         run: python .github/worflows/python/push.py
-        workinf-directory ${{ github.workspace }}/${{ env.PROJECT_PATH }}
+        working-directory ${{ github.workspace }}/..
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
