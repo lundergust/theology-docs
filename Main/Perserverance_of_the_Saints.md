@@ -1,4 +1,4 @@
-[[Perserverance of the saints]]
+[Perserverance of the saints](Perserverance_of_the_saints.md)
 
 - [Return to Table Of Contents](README.md)
 - [Return to Master Glossary](Master Glossary.md)
