@@ -1,7 +1,7 @@
-# Mariology
+[Mariology](Mariology.md)
 
-- [[README|Return to Table Of Contents]]
-- [[Master Glossary|Return to Master Glossary]]
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 | Term | Definition|
 | ---- | --------- |
@@ -9,7 +9,7 @@
 
 Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, that applies to God, Mary, and the Saints.
 
-## Related Etymology (Greek)
+#[Related Etymology (Greek)](Related_Etymology_(Greek).md)
 
 | Word | Translation |
 | ---- | --------- |
@@ -21,7 +21,7 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 
 
 
-## Controverisal Verses
+#[Controverisal Verses](Controverisal_Verses.md)
 - Matthew 1:25
     - Joseph knew her not till she had brought forth her firstborn son
 - Luke 1:34
@@ -32,7 +32,7 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 
 
 
-## Eastern Orthodoxy 
+#[Eastern Orthodoxy ](Eastern_Orthodoxy_.md)
 - *Theotokos*, meaning God-Bearer.
 - Mary is the affirmation of the fullness of God's incarnation.
 - Elevated to the highest level of creatures, but still human
@@ -51,7 +51,7 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 
 
 
-## Catholicism
+#[Catholicism](Catholicism.md)
 - Vatican 2
 - Mother of God
     - Council of Ephesus (431)
@@ -75,12 +75,12 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
     - Mary was assumed body and soul into heaven
 
 
-## Protestant
+#[Protestant](Protestant.md)
 - Believe in the virgin birth
 - Some groups call her "Mother of God"
     - Council of Ephesus 431
 
-### Martin Luther
+##[Martin Luther](Martin_Luther.md)
 - Affirmed *Theotokos*, God-Bearer
 - Affirmed perpetual virginity
 - Rejected the power of intercession of her or any saint
@@ -95,7 +95,7 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 - Approves Marian songs, paintings, and statues
 - Advocated the use of the pre-Trent versino of the Hail Mary
 
-### John Calvin
+##[John Calvin](John_Calvin.md)
 Calvin's views are summarized in the Second Helvetic Confession, by Heinrich Bullinger. Basically, he did not deny perpetual virginity, but took exception to any prayer to, or icons of Mary.
 
 - Matthew 1:25 
@@ -131,7 +131,7 @@ Calvin's views are summarized in the Second Helvetic Confession, by Heinrich Bul
 
 
 
-## Pushback
+#[Pushback](Pushback.md)
 Notable writers or groups who argued against various Marian ideas include:
 - [Tertullian (155-220 AD)](Writers/Tertullian.md)
 - Antedicomarians (3rd - 5th Century)
@@ -148,8 +148,8 @@ Notable writers or groups who argued against various Marian ideas include:
     - Distinguished church invisible from visible
 
 
-## 'Brothers' of Jesus
-### Differing views
+#['Brothers' of Jesus]('Brothers'_of_Jesus.md)
+##[Differing views](Differing_views.md)
 - Catholic
     - The brothers are cousin
 - Eastern Orthodox 
@@ -158,7 +158,7 @@ Notable writers or groups who argued against various Marian ideas include:
     - The brothers are Mary and Joseph's kids born after Jesus
 
 
-### In Scripture
+##[In Scripture](In_Scripture.md)
 Verses that refer to Jesus's brothers, in English
 - Mark 6:3
     - *Is this not the carpenter, the Son of Mary, and brother of James, Joses, Judas, and Simon? And are not His sisters here with us?*
@@ -181,7 +181,7 @@ Verses that refer to Jesus's brothers, in English
     - *There were also women looking on from afar, among whom were Mary Magdalene, Mary the mother of James the Less and of Joses, and Salome*
 
 
-### James the brother of Jesus
+##[James the brother of Jesus](James_the_brother_of_Jesus.md)
 Scholars mostly agree that James the brother of Jesus (James the Just) is referenced by Paul. References to James include:
 - 1 Corinthians 15:7
     - *After that He was seen by James, then by all the apostles*s
@@ -203,12 +203,12 @@ Scholars mostly agree that James the brother of Jesus (James the Just) is refere
 
 
 
-### Other Thoughts
+##[Other Thoughts](Other_Thoughts.md)
 - If blood brothers, they should have been present at His burial, but they are not mentioned
 
 
 
-## References
+#[References](References.md)
 [1] - Brothers of Jesus - Wikipedia
 [] -
 [] -

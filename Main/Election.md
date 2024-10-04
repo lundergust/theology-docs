@@ -1,18 +1,18 @@
-# Election
+[Election](Election.md)
 
-- [[README|Return to Table Of Contents]]
-- [[Master Glossary|Return to Master Glossary]]
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
-## In Calvinism
+#[In Calvinism](In_Calvinism.md)
 Before the foundation of the world, God chose certain individuals, the **elect**, to receive eternal salvation. 
 This is *unconditional*, meaning not based on human merit or works, but solely on God's soverign will. 
 
-### OT Support
+##[OT Support](OT_Support.md)
 - Israelites are called to be the *Chosen People*, or *People of God*
 - Deuteronomy
 - Isaiah 40-66
 
-### NT Support
+##[NT Support](NT_Support.md)
 The meaning now becomes the members of the body of Christ, on earth or in heaven, rather than the people of Israel
 - Matthew 7:13-14  *"...narrow is the gate that leads to life"*
   - This is taken to mean there are a small number of elect

@@ -1,9 +1,9 @@
-# Ecumenical Councils
+[Ecumenical Councils](Ecumenical_Councils.md)
 
-- [[README|Return to Table Of Contents]]
-- [[Master Glossary|Return to Master Glossary]]
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
-## Seven Ecumenical Councils of the Orthodox Church
+#[Seven Ecumenical Councils of the Orthodox Church](Seven_Ecumenical_Councils_of_the_Orthodox_Church.md)
 | Council | Date | Topics | 
 | ---- | --------- | ----------- | 
 | Nicea I | 325 | Denounce Arianism, Nicene Creed |
@@ -17,7 +17,7 @@
 
 ---
 
-## Eigth and Ninth Potentially Ecumenical Councils of the Orthodox Church
+#[Eigth and Ninth Potentially Ecumenical Councils of the Orthodox Church](Eigth_and_Ninth_Potentially_Ecumenical_Councils_of_the_Orthodox_Church.md)
 These are affirmed as ecumenical by some, but considered simply as important local councils by others within Orthodox Church.
 | Council | Date | Topics | 
 | ---- | --------- | ----------- | 

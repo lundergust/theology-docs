@@ -1,9 +1,9 @@
-# achri (untill) [ $\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$ ]
+[achri (untill) [ $\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$ ]](achri_(untill)_[_$\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$_].md)
 - [Back to table of contents](../README.md)
 - [Back to glossary](../Glossary.md)
 - [Back to mariology](../Mariology.md)
 
-### Similar uses in NT
+##[Similar uses in NT](Similar_uses_in_NT.md)
 - 1. As a preposition it takes the genitive, and is used
     - d. joined to the relative ${\omicron}\tilde{\grave{\upsilon}}$  (${\alpha}{\chi}{\rho}{\iota}{\varsigma}  {\omicron}\tilde{\grave{\upsilon}}$)  it has the force of a conjunction, **until, to the time that**: followed by the indicative preterite, of things that actually ocurred and up to the beginning of which something continued
         

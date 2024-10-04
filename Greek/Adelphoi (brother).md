@@ -1,4 +1,4 @@
-# Adelphoi (brother)
+[Adelphoi (brother)](Adelphoi_(brother).md)
 - [Back to table of contents](../README.md)
 - [Back to glossary](../Glossary.md)
 - [Back to mariology](../Mariology.md)

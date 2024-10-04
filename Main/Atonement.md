@@ -1,7 +1,7 @@
-# Atonement
+[Atonement](Atonement.md)
 
-- [[README|Return to Table Of Contents]]
-- [[Master Glossary|Return to Master Glossary]]
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 | Term | Definition| 
 | ---- | --------- | 
@@ -9,25 +9,25 @@
 | Divine Justice | God is unwilling or unable to forgive sins without requiring satisfaction |
 | Supererogatory | Payment beyond what is being asked |
 
-## Physical Theory
+#[Physical Theory](Physical_Theory.md)
 - Anathasius of Alexandria, 3rd century
 - By becoming man, Jesus restored the divine image in humans. 
 - This is somehow mixed with the idea that His death was necessary to release the curse of sin
 
-## Ransom Theory of Atonement
+#[Ransom Theory of Atonement](Ransom_Theory_of_Atonement.md)
 - 4th-11th century, Origen
 - Death of Christ was a ransom sacrifice paid to Satan, satisfying the debt on human souls resulting from inherited sin
 
-## Satisfaction Theory of Atonment
+#[Satisfaction Theory of Atonment](Satisfaction_Theory_of_Atonment.md)
 - Christ redeemed humanity by satisfuing humans' disobedience by his own supererogatory obedience
 - Anselm, 11th Century
 
-## Penal Subtitutionary (vicarious) Atonement
+#[Penal Subtitutionary (vicarious) Atonement](Penal_Subtitutionary_(vicarious)_Atonement.md)
 - Christ was penalized in the place of sinners, satisfying divine justice and making sinners at one with God
 - Christ suffers the death, punishment and curse
 - The death of Christ deals with sin, the resurrection is the restoration of righteousness
 
-### Emergence
+##[Emergence](Emergence.md)
 - Martin Luther
     - Building off Anselm, combined the satisfaction and punishment.
 - John Calvin
@@ -38,7 +38,7 @@
     - Isaiah 53
     - 1 Peter 3:18-22
     
-### Exegesis
+##[Exegesis](Exegesis.md)
 - Romans 3:23-26
 - 2 Corinthians 5:21
 - Galatians 3:10, 13
@@ -56,7 +56,7 @@
     - Therefore, there is no injustice in punishing the innocent
     - Also He is no appeasing some third party justice
 
-### Criticisms
+##[Criticisms](Criticisms.md)
 - Anabaptist criticism
     - Perfect satisfaction for sin leaves no room for divine forgiveness or pardon
     - Punishing the innocent and letting the guilty go free is the definition of injustice
@@ -70,13 +70,13 @@
 - Guilt is inherently non-transferable. 
 - If damnation is what is owed to sinners, and is the seperation from God, then Jesus was seperated from God, splitting the trinity.    
 
-## Unlimited Atonment (universal, general)
+#[Unlimited Atonment (universal, general)](Unlimited_Atonment_(universal,_general).md)
 - Jesus died as a propitiation for all humans, without exception
 - No limits on who can believe through faith
 - Legal payment is still required to those that respond through faith
 - Does **not** state that Jesus's death was payment for those who reject Him
 
-### Scriptural Support
+##[Scriptural Support](Scriptural_Support.md)
 - John 3:16
 - 1 Timothy 2:6, 4:10
 - Hebrews 2:9

@@ -1,6 +1,6 @@
-# Master Glossary
+[Master Glossary](Master_Glossary.md)
 
-- [[README|Return to Table Of Contents]]
+- [Return to Table Of Contents](README.md)
 
 | Term | Definition| Theologians | 
 | ---- | --------- | ----------- | 
@@ -27,7 +27,7 @@
 | Universalism | All humans will ultimately be saved |  |
 
 
-# Heresies
+[Heresies](Heresies.md)
 | Term | Definition| Time Period | 
 | ---- | --------- | ----------- | 
 | Docetism | Jesus Christ was not human, but his form was merely an illusion | 2nd Cen |

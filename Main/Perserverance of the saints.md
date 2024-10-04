@@ -1,13 +1,13 @@
-# Perserverance of the saints
+[Perserverance of the saints](Perserverance_of_the_saints.md)
 
-- [[README|Return to Table Of Contents]]
-- [[Master Glossary|Return to Master Glossary]]
+- [Return to Table Of Contents](README.md)
+- [Return to Master Glossary](Master Glossary.md)
 
 The elect will receive salvation. 
 Also called Preservation of the saints, empahasizing that God determines who is elect and who preserveres. 
 But, believers cannot have certainty of their own salvation.
 
-## Emergence
+#[Emergence](Emergence.md)
 - 4th Century, Manichaeism maintains God unilaterally selected the elect for salvation and the non-elect for damnation
 - 5th Century, Augustine
     - Unborn, unbaptized infants were condemed (Manichaen doctrine), but baptism regenerated them

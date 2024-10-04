@@ -1,9 +1,9 @@
-# Becoming Orthodox
+[Becoming Orthodox](Becoming_Orthodox.md)
 - [Back to table of contents](../README.md)
 - [Back to glossary](../Glossary.md)
 
 Author: Peter Gilquist
-## Worship
+#[Worship](Worship.md)
 Early Church worship was liturgical. Three main early sources:
 - Didache - *The teaching of the twelve* (70 AD)
     - Eucharist
@@ -46,7 +46,7 @@ Early Church worship was liturgical. Three main early sources:
 
 
 
-## Eucharist
+#[Eucharist](Eucharist.md)
 - Eucharist was seen as both a symbol, and a substance
     - but no transubstantiation until centuries later
     - Key word is *mystery*
@@ -55,7 +55,7 @@ Early Church worship was liturgical. Three main early sources:
     - Why would people get sick and die if the eucharist is just a symbol?
 
 
-## Church History
+#[Church History](Church_History.md)
 - Bishops are present before 100 AD
     - Polycarp, Bishop of Smyrna
         - Iraneaus says he was the spiritual son of Apostle John
