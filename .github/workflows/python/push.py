@@ -30,7 +30,7 @@ def replace_standard_links(content):
 
 	def replacement(match):
 		file_name = match.group(1).strip()  # Extract the file name
-		file_name_formatted.replace(" ", "_")
+		file_name_formatted = file_name.replace(" ", "_")
 		return f"[{file_name}]({file_name_formatted}.md)"  # Convert to Markdown format
 
 	return link_pattern.sub(replacement, content)
