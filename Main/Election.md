@@ -1,6 +1,7 @@
 # Election
-- [Return to Table of Contents](Table of Contents.md)
-- [Return to Master Glossary](Master Glossary.md)
+
+- [[README|Return to Table Of Contents]]
+- [[Master Glossary|Return to Master Glossary]]
 
 ## In Calvinism
 Before the foundation of the world, God chose certain individuals, the **elect**, to receive eternal salvation. 

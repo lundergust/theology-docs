@@ -1,5 +1,6 @@
 # Master Glossary
-- [Return to Table of Contents](Table of Contents.md)
+
+- [[README|Return to Table Of Contents]]
 
 | Term | Definition| Theologians | 
 | ---- | --------- | ----------- | 
