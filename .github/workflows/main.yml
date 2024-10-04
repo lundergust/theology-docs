@@ -1,7 +1,6 @@
 name: Replace Bear Link with Markdown Link
 on:
   push:
-  workflow_dispatch:
 
 jobs:
   run_python_script:
@@ -16,8 +15,7 @@ jobs:
           python-version: '3.10'
     
       - name: Run Push Python Script
-        run: python .github/workflows/python/push.py
-        working-directory: ${{ github.workspace }}/..
+        run: python ./.github/workflows/python/push.py
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
