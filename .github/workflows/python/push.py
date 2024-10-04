@@ -4,6 +4,8 @@ import os
 import re
 import subprocess
 
+repo_path = os.environ['GITHUB_WORKSPACE']
+
 # Regex to match text like [[Test File | return to test file]]
 #custom_link_pattern = re.compile(r'\[\[([^|\]]+)\s*\|\s*([^\]]+)\]\]')
 #link_pattern = re.compile(r'\[\[([^|\]]+)\s*([^\]]+)\]\]')
@@ -45,7 +47,7 @@ def is_markdown_file(file_path):
 
 def process_file(file_path):
     """Read, modify, and update the file content"""
-    with open(file_path, 'r', encoding='utf-8') as file:
+    with open(f"{repo_path}\{file_path}", 'r', encoding='utf-8') as file:
         content = file.read()
 
     # Replace custom links with Markdown links
