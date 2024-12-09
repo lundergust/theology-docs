@@ -1,7 +1,7 @@
 # Becoming Orthodox
 
 - [Return to Table Of Contents](../README.md)
-- [Return to Master Glossary](../Master_Glossary.md)
+- [Return to Master Glossary](../Main/Master_Glossary.md)
 
 Author: Peter Gilquist
 

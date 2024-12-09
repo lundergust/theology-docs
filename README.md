@@ -11,7 +11,7 @@
 - [Free Grace](Main/Free_Grace.md)
 - [Justification](Main/Justification.md)
 - [Mariology](Main/Mariology.md)
-- [Perseverance of the Saints](Main/Perseverance_of_the_Saints.md)
+- [Perseverance of the Saints](Main/Perseverance_of_the_saints.md)
 - [Treasury of Merit](Main/Treasury_of_Merit.md)
 
 ## Writers
@@ -20,14 +20,15 @@
 
 ## Greek Word Study
 
-- [achri (until) \[ $\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$ \]](Greek/Achri_(until).md)
+- [achri (until)](Greek/Achri_(until).md)
 - [Adelphoi (brother)](Greek/Adelphoi_(brother).md)
 - [Anepsios (cousin)](Greek/Anepsios_(cousin).md)
-- [<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek> (till) \[ $\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$ \]](Greek/Heos_(till).md)
+- [heōs (till)](Greek/Heos_(till).md)
 
 ## Books
 
 - [Becoming Orthodox](Books/Becoming_Orthodox.md)
+- [On The Cosmic Mystery of Jesus Christ](Books/Cosmic_Mystery.md)
 - [Rock and Sand](Books/Rock_and_Sand.md)
 
 ## Podcasts
