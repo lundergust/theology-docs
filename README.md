@@ -41,6 +41,11 @@
 - [Anepsios (cousin)](Greek/Anepsios_(cousin).md)
 - [heōs (till)](Greek/Heos_(till).md)
 
+- [achri (until)](Greek/Achri_(until).md)
+- [Adelphoi (brother)](Greek/Adelphoi_(brother).md)
+- [Anepsios (cousin)](Greek/Anepsios_(cousin).md)
+- [heōs (till)](Greek/Heos_(till).md)
+
 ## Books
 
 - [Becoming Orthodox](Books/Becoming_Orthodox.md)

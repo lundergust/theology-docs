@@ -3,6 +3,11 @@
 - [Return to Table Of Contents](../README.md)
 - [Return to Master Glossary](../Main/Master_Glossary.md)
 
+# Tertullian
+
+- [Return to Table Of Contents](../README.md)
+- [Return to Master Glossary](../Main/Master_Glossary.md)
+
 Terutullian (155 - 220 AD) originated many of the early christian doctrines, but eventually became a montanist.
 It is debated, however, that he was later apostasized.
 Terutullian (155 - 220 AD) originated many of the early christian doctrines, but eventually became a montanist.

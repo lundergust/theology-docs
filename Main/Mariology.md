@@ -23,6 +23,13 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 | [Anepsios](../Greek/Anepsios_(cousin).md)  | Cousin, Nephew, niece |
 | Delphys                                    | Womb                  |
 | [Heōs](../Greek/Heos_(till).md)            | Until                 |
+| Word                                       | Translation           |
+| ------------------------------------------ | --------------------- |
+| [Achri](../Greek/Achri_(until).md)         | Until                 |
+| [Adelphoi](../Greek/Adelphoi_(brother).md) | Brother (loosly)      |
+| [Anepsios](../Greek/Anepsios_(cousin).md)  | Cousin, Nephew, niece |
+| Delphys                                    | Womb                  |
+| [Heōs](../Greek/Heos_(till).md)            | Until                 |
 
 ## Controversial Verses
 
@@ -175,9 +182,12 @@ Verses that refer to Jesus's brothers, in English
   - *Is this not the carpenters son? Is not his mother called Mary? And His brothers James, Joses, Simon, and Judas? And His sisters, are they not all with us?*
 - Matthew 12:46-50
   - *While He was still talking to the multitudes, behold, His mother and brothers stood outside, seeking to speak with Him. Then one said, 'Look, Your mother and Your brothers are standing outside, seeking to speak with You'. But He answered and said to the one who told Him,* $\color{red}{\textsf{'Who is My mother and who are My brothers?'}}$ *And He stretched out His hand toward His disciples and said,* $\color{red}{\textsf{'Here are My mother and My brothers!}}$ $\color{red}{\textsf{For whoever does the will of My Father in heaven is My brother and sister and mother.'}}$
+  - *While He was still talking to the multitudes, behold, His mother and brothers stood outside, seeking to speak with Him. Then one said, 'Look, Your mother and Your brothers are standing outside, seeking to speak with You'. But He answered and said to the one who told Him,* $\color{red}{\textsf{'Who is My mother and who are My brothers?'}}$ *And He stretched out His hand toward His disciples and said,* $\color{red}{\textsf{'Here are My mother and My brothers!}}$ $\color{red}{\textsf{For whoever does the will of My Father in heaven is My brother and sister and mother.'}}$
 - Mark 3:31-35
   - *Then His brothers and His mother came, and standing outside they sent to Him, calling Him. And a multitude was sitting around Him; and they said to Him, 'Look, Your mother and Your brothers are outside seeking You.' But he answered them, saying* $\color{red}{\textsf{'Who is My mother, or My brothers?'}}$ *And He looked around in a circle at those who sat about Him, and said,* $\color{red}{\textsf{'Here are My mother and My brothers!}}$ $\color{red}{\textsf{For whoever does the will of God is My brother and My sister and mother'.}}$
+  - *Then His brothers and His mother came, and standing outside they sent to Him, calling Him. And a multitude was sitting around Him; and they said to Him, 'Look, Your mother and Your brothers are outside seeking You.' But he answered them, saying* $\color{red}{\textsf{'Who is My mother, or My brothers?'}}$ *And He looked around in a circle at those who sat about Him, and said,* $\color{red}{\textsf{'Here are My mother and My brothers!}}$ $\color{red}{\textsf{For whoever does the will of God is My brother and My sister and mother'.}}$
 - Luke 8:18
+  - *Then His mother and brothers came to Him, and could not approach Him because of the crowd. And it was told Him by some, who said, 'Your mother and Your brothers are standing outside, desiring to see You.' But He answered and said to them,* $\color{red}{\textsf{'My mother and My brothers are these who hear the word of God and do it'.}}$
   - *Then His mother and brothers came to Him, and could not approach Him because of the crowd. And it was told Him by some, who said, 'Your mother and Your brothers are standing outside, desiring to see You.' But He answered and said to them,* $\color{red}{\textsf{'My mother and My brothers are these who hear the word of God and do it'.}}$
 - Acts 1:14
   - *These all continued with the women and Mary the mother of Jesus, and with His brothers*
@@ -231,9 +241,21 @@ Scholars mostly agree that James the brother of Jesus (James the Just) is refere
     g { color: green }
 </style>
 
+<style>
+    Jesus { color: Red }
+    Greek { margin:0; padding:0; letter-spacing:0px; }
+    /* redbold { color: Red; font-weight: bold } */
+    o { color: orange }
+    g { color: green }
+</style>
+
 writing greek letters
 $\beta$
 $\`{o}$
+
+Writing in Color
+$\color{red}{\textsf{lorem ipsum}}$
+ -->
 
 Writing in Color
 $\color{red}{\textsf{lorem ipsum}}$
