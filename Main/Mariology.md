@@ -3,11 +3,6 @@
 - [Return to Table Of Contents](../README.md)
 - [Return to Master Glossary](Master_Glossary.md)
 
-# Mariology
-
-- [Return to Table Of Contents](../README.md)
-- [Return to Master Glossary](Master_Glossary.md)
-
 | Term | Definition|
 | ---- | --------- |
 | The Vulgate | A latin translation of the Bible, by Jerome, written in 382 |
@@ -16,13 +11,6 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 
 ## Related Etymology (Greek)
 
-| Word                                       | Translation           |
-| ------------------------------------------ | --------------------- |
-| [Achri](../Greek/Achri_(until).md)         | Until                 |
-| [Adelphoi](../Greek/Adelphoi_(brother).md) | Brother (loosly)      |
-| [Anepsios](../Greek/Anepsios_(cousin).md)  | Cousin, Nephew, niece |
-| Delphys                                    | Womb                  |
-| [Heōs](../Greek/Heos_(till).md)            | Until                 |
 | Word                                       | Translation           |
 | ------------------------------------------ | --------------------- |
 | [Achri](../Greek/Achri_(until).md)         | Until                 |
@@ -144,8 +132,6 @@ Calvin's views are summarized in the Second Helvetic Confession, by Heinrich Bul
 Notable writers or groups who argued against various Marian ideas include:
 
 - [Tertullian (155-220 AD)](../Writers/Tertullian.md)
-
-- [Tertullian (155-220 AD)](../Writers/Tertullian.md)
 - Antedicomarians (3rd - 5th Century)
   - Refused Mary any special status
   - Considered Joseph to be a widower with 6 previous children
@@ -165,7 +151,6 @@ Notable writers or groups who argued against various Marian ideas include:
 
 - Catholic
   - The brothers are cousin
-- Eastern Orthodox
 - Eastern Orthodox
   - The brothers are Joseph's kids from a previous marriage
 - Protestants
@@ -241,21 +226,9 @@ Scholars mostly agree that James the brother of Jesus (James the Just) is refere
     g { color: green }
 </style>
 
-<style>
-    Jesus { color: Red }
-    Greek { margin:0; padding:0; letter-spacing:0px; }
-    /* redbold { color: Red; font-weight: bold } */
-    o { color: orange }
-    g { color: green }
-</style>
-
 writing greek letters
 $\beta$
 $\`{o}$
-
-Writing in Color
-$\color{red}{\textsf{lorem ipsum}}$
- -->
 
 Writing in Color
 $\color{red}{\textsf{lorem ipsum}}$
