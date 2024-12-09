@@ -1,6 +1,8 @@
-[Master Glossary](Master_Glossary.md)
+# Master Glossary
 
-- [Return to Table Of Contents](README.md)
+- [Return to Table Of Contents](../README.md)
+
+## Theology
 
 | Term                           | Definition                                                   | Theologians                   |
 |--------------------------------|--------------------------------------------------------------|-------------------------------|
@@ -26,10 +28,10 @@
 | Temporary grace                | Appears and works in a person only for a while, then disappears |                               |
 | Universalism                   | All humans will ultimately be saved                          |                               |
 
-
 ## Heresies
-| Term | Definition| Time Period | 
-| ---- | --------- | ----------- | 
+
+| Term | Definition| Time Period |
+| ---- | --------- | ----------- |
 | Docetism | Jesus Christ was not human, but his form was merely an illusion | 2nd Cen |
 | Montanism | Following Montanus, a false prophet who claimed to have revalations from the Holy Spirit, and a different code of ethics  | 2nd Cen |
 | Adoptionism | Jesus Christ was not eternal, but adopted by God at some point | 2nd Cen |
@@ -69,6 +71,3 @@
 | Quietism | Christians should do nothing so to not impede God's will. Men shoud remain silent | 17th Cen |
 | Febroniaism | Thought to make Catholicism more relevant culturally, reduce power of Pope, reunite with Protestants | 18th Cen |
 | Modernism | All doctrines are subject to change, and ought to change depending on time and location | 20th Cen |
-
-
-#TheologyDocs/Main

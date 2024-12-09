@@ -1,12 +1,13 @@
-[achri (untill) [ $\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$ ]](achri_(untill)_[_$\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$_].md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
-- [Back to Mariology](Mariology.md)
+# Achri (untill) [ $\grave{\acute{{\alpha}}}{\chi}{\rho}{\iota}{\varsigma}$ ]
+
+- [Return to Table Of Contents](../README.md)
+- [Return to Master Glossary](../Main/Master_Glossary.md)
+- [Back to Mariology](../Main/Mariology.md)
 
 ### Similar uses in NT
+
 - 1. As a preposition it takes the genitive, and is used
   - d. joined to the relative ${\omicron}\tilde{\grave{\upsilon}}$  (${\alpha}{\chi}{\rho}{\iota}{\varsigma}  {\omicron}\tilde{\grave{\upsilon}}$)  it has the force of a conjunction, **until, to the time that**: followed by the indicative preterite, of things that actually ocurred and up to the beginning of which something continued
-        
 
 |      |           |   |
 | ---- | --------- | - |
@@ -21,10 +22,6 @@
 | Revelation 2:25 | *<Jesus>'But hold fast what you have **till** I come.'</Jesus>* | achri hos ( ${\alpha}{\chi}{\rho}{\iota}{\varsigma}$  $\grave{\acute{\omicron}{\upsilon}}$ ) |
 | Hebrews 3:13 | *but exhort one another daily, **while** it is called 'Today', lest any of you be hardened through the deceitfulness of sin.* | achri hos ( ${\alpha}{\chi}{\rho}{\iota}{\varsigma}$  $\grave{\acute{\omicron}{\upsilon}}$ ) |
 
-
-
-
-
 <style>
     Jesus { color: Red }
     Greek { margin:0; padding:0; letter-spacing:0px; }
@@ -38,5 +35,3 @@ writing greek letters
 $\beta$
 $\`{o}$
  -->
-
-#TheologyDocs/Greek

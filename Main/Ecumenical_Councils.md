@@ -1,10 +1,12 @@
-[Ecumenical Councils](Ecumenical_Councils.md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
+# Ecumenical Councils
+
+- [Return to Table Of Contents](../README.md)
+- [Return to Master Glossary](Master_Glossary.md)
 
 ## Seven Ecumenical Councils of the Orthodox Church
-| Council | Date | Topics | 
-| ---- | --------- | ----------- | 
+
+| Council | Date | Topics |
+| ---- | --------- | ----------- |
 | Nicea I | 325 | Denounce Arianism, Nicene Creed |
 | Constantinople I | 381 | Revised Nicene Creed to current EO form |
 | Ephesus | 431 | Denounce Nestorianism, *Theotokos* |
@@ -17,14 +19,10 @@
 ---
 
 ## Eighth and Ninth Potentially Ecumenical Councils of the Orthodox Church
+
 These are affirmed as ecumenical by some, but considered simply as important local councils by others within Orthodox Church.
-| Council | Date | Topics | 
-| ---- | --------- | ----------- | 
+
+| Council | Date | Topics |
+| ---- | --------- | ----------- |
 | Constantinople IV | 879 | Restore St. Photius the Great, Anathematize modifiers of Nicene-Constantinople Creed |
 | Constantinople V | 1341 | Affirmed hesychastic theology of St Gregory Palamas, Condemn Barlaam of Calabria |
-
-
-
-
-
-#TheologyDocs/Main

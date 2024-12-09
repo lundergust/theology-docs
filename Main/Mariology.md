@@ -1,6 +1,7 @@
-[Mariology](Mariology.md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
+# Mariology
+
+- [Return to Table Of Contents](../README.md)
+- [Return to Master Glossary](Master_Glossary.md)
 
 | Term | Definition|
 | ---- | --------- |
@@ -12,15 +13,14 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 
 | Word                                                         | Translation           |
 |--------------------------------------------------------------|-----------------------|
-| [achri (untill) \[ $\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$ \](achri_(untill)_\[_$\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$_\.md)] | Until                 |
-| [Adelphoi (brother)](Adelphoi_(brother).md)                                       | Brother (loosly)      |
-| [Anepsios (cousin)](Anepsios_(cousin).md)                                        | Cousin, Nephew, niece |
+| [achri (untill) \[ $\\grave{\\acute{{\\alpha}}}{\\chi}{\\rho}{\\iota}{\\varsigma}$ \]](../Greek/Achri_(until).md) | Until                 |
+| [Adelphoi (brother)](../Greek/Adelphoi_(brother).md)                                       | Brother (loosly)      |
+| [Anepsios (cousin)](../Greek/Anepsios_(cousin).md)                                        | Cousin, Nephew, niece |
 | delphys                                                      | Womb                  |
-| [<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek> (till) \[ $\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$ \](<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek>_(till)_\[_$\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$_\.md)] | Until                 |
-
-
+| [<Greek>he<\/Greek>$\\bar{\\omicron}$<Greek>s<\/Greek> (till) \[ $\\grave{\\acute{\\epsilon}}{\\omega}{\\varsigma}$ \]](../Greek/Heos_(till).md) | Until                 |
 
 ## Controversial Verses
+
 - Matthew 1:25
   - Joseph knew her not till she had brought forth her firstborn son
 - Luke 1:34
@@ -28,10 +28,8 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 - Luke 1:43
   - And why has this happened to me, that the mother of my Lord comes to me?
 
-
-
-
 ## Eastern Orthodoxy
+
 - *Theotokos*, meaning God-Bearer.
 - Mary is the affirmation of the fullness of God's incarnation.
 - Elevated to the highest level of creatures, but still human
@@ -47,10 +45,8 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
   - Eusebius (4th Century)
   - Origen (3rd Century)
 
-
-
-
 ## Catholicism
+
 - Vatican 2
 - Mother of God
   - Council of Ephesus (431)
@@ -73,13 +69,14 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
   - Pope Pius XII (1950)
   - Mary was assumed body and soul into heaven
 
-
 ## Protestant
+
 - Believe in the virgin birth
 - Some groups call her "Mother of God"
   - Council of Ephesus 431
 
 ### Martin Luther
+
 - Affirmed *Theotokos*, God-Bearer
 - Affirmed perpetual virginity
 - Rejected the power of intercession of her or any saint
@@ -95,9 +92,10 @@ Nicea 2 (787) affirmed 3 level hierarchy of *latria*, *hyperdulia* and *dulia*, 
 - Advocated the use of the pre-Trent versino of the Hail Mary
 
 ### John Calvin<!-- {"fold":true} -->
+
 Calvin's views are summarized in the Second Helvetic Confession, by Heinrich Bullinger. Basically, he did not deny perpetual virginity, but took exception to any prayer to, or icons of Mary.
 
-- Matthew 1:25 
+- Matthew 1:25
   - The term "firstborn" and "till" do not contradict p.v
   - But we cant know what happened afterwards from this verse
 - Luke 1:34
@@ -110,11 +108,11 @@ Calvin's views are summarized in the Second Helvetic Confession, by Heinrich Bul
   - Luke 1:43
     - *"Elizabeth calls Mary the mother of her Lord. This denotes a unity of person in the two natures of Christ; as if she had said, that he who was begotten a mortal man in the womb of Mary is, at the same time, the eternal God... This name **Lord** strictly belongs to the Son of God 'manifested in the flesh' (1 Timothy 3:16) who has received from the Father all power, and has been appointed the highest ruler of heaven and earth, that by his agency God may govern all things."*
     - This objection, when understood with the above, seems to be regarding using the title as veneration, not the concept itself.
-  - Some say he thinks Mary was his mother only while He was on earth. 
+  - Some say he thinks Mary was his mother only while He was on earth.
     - John 19:26
       - *When Jesus saw his mother and the disciple whom he loved standing beside her, He said to His mother, "Woman, here is your son"*
       - *"Some think that He does not call her 'mother' but only 'woman' so as not to inflict a deeper wound of sorrow on her heart. I do not reject this; but another conjecture is no less probable, that Christ wanted to show that now that He has completed the course of human life, He puts off the condition in which He has lived and enters into the heavenly kingdom where He will rule over angels and men. For we know that Christ's custom always was to recall believers from looking at the flesh. This was especially necessary at His death"*
-- Denied immaculate conception. His reasons can be inferred from the following: 
+- Denied immaculate conception. His reasons can be inferred from the following:
   - Affirmed Original Sin
   - Affirmed doctrine of headship, from Romans 5:12-21
     - Sin enters the world through the male, Adam
@@ -126,13 +124,11 @@ Calvin's views are summarized in the Second Helvetic Confession, by Heinrich Bul
   - Forbade prayers and supplications to Mary
 - Praying to the dead is not supported by scripture
 
-
-
-
-
 ## Pushback
+
 Notable writers or groups who argued against various Marian ideas include:
-- [Tertullian (155-220 AD)](Tertullian.md)
+
+- [Tertullian (155-220 AD)](../Writers/Tertullian.md)
 - Antedicomarians (3rd - 5th Century)
   - Refused Mary any special status
   - Considered Joseph to be a widower with 6 previous children
@@ -146,19 +142,21 @@ Notable writers or groups who argued against various Marian ideas include:
   - No difference between fasting and enjoying foods with thanksgiving
   - Distinguished church invisible from visible
 
-
 ## Brothers' of Jesus
+
 ### Differing views
+
 - Catholic
   - The brothers are cousin
-- Eastern Orthodox 
+- Eastern Orthodox
   - The brothers are Joseph's kids from a previous marriage
 - Protestants
   - The brothers are Mary and Joseph's kids born after Jesus
 
-
 ### In Scripture
+
 Verses that refer to Jesus's brothers, in English
+
 - Mark 6:3
   - *Is this not the carpenter, the Son of Mary, and brother of James, Joses, Judas, and Simon? And are not His sisters here with us?*
   - The Vulgate uses latin word *frater*, which can mean 'maternal cousin' or 'paternal cousin'
@@ -176,12 +174,13 @@ Verses that refer to Jesus's brothers, in English
   - *But I saw none of the other apostles except James, the Lord's brother*
 - 1 Corinthians 9:5
   - *Do we have no right to take along a believing wife, as do also the other apostles, the brothers of the Lord, and Cephas?*
-- Mark 15:40,47 
+- Mark 15:40,47
   - *There were also women looking on from afar, among whom were Mary Magdalene, Mary the mother of James the Less and of Joses, and Salome*
 
-
 ### James the brother of Jesus
+
 Scholars mostly agree that James the brother of Jesus (James the Just) is referenced by Paul. References to James include:
+
 - 1 Corinthians 15:7
   - *After that He was seen by James, then by all the apostles*s
 - Eusebius of Caesarear (339)
@@ -189,7 +188,7 @@ Scholars mostly agree that James the brother of Jesus (James the Just) is refere
   - Created a list of 12 bishops of the early church, where Joseph/Joses and Jude are listed, who may be the brothers of Jesus
 - Clement of Alexandria, reported by Eusebius
   - James was chosen as a bishop of Jerusalem
-  - He became the principle authority in Jerusalem church after Peter left, presiding at Council of Jerusalem in Acts 15. 
+  - He became the principle authority in Jerusalem church after Peter left, presiding at Council of Jerusalem in Acts 15.
 - Galatians 1:19
   - It is unclear if James is included as an apostle or not here
 - Galatians 2:9
@@ -197,24 +196,18 @@ Scholars mostly agree that James the brother of Jesus (James the Just) is refere
   - This is taken to be James the brother of Jesus, not James the brother of John.
     - Probably because he is in Jerusalem church
 
-
-
-
-
-
 ### Other Thoughts
+
 - If blood brothers, they should have been present at His burial, but they are not mentioned
 
-
-
 ## References
+
 [1] - Brothers of Jesus - Wikipedia
 [] -
 [] -
 [] -
 [] -
 [] -
-
 
 <!-- 
 writing greek letters
@@ -227,6 +220,3 @@ Jesus { color: Red }
 Greek { margin:0; padding:0; letter-spacing:0px; }
 /* redbold { color: Red; font-weight: bold } */
 </style>
-
-
-#TheologyDocs/Main

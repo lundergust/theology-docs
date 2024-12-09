@@ -1,16 +1,18 @@
-[Free Grace](Free_Grace.md)
-- [Return to Table Of Contents](README.md)
-- [Return to Master Glossary](Master Glossary.md)
+# Free Grace
 
-The only condition for salvation is faith, excluding good works and perserverance, with eternal security. 
+- [Return to Table Of Contents](../README.md)
+- [Return to Master Glossary](Master_Glossary.md)
+
+The only condition for salvation is faith, excluding good works and perserverance, with eternal security.
 Good works are part of discipleship, and result in more eternal rewards.
-This is also held with eternal security, so the believer will be certain of salvation despite moral failings. 
+This is also held with eternal security, so the believer will be certain of salvation despite moral failings.
 However, there is some divine punishment that is not damnation.
 
 - Salvation = the call to believe in Christ and receive eternal life
 - Discipleship = the call to follow cChrist and be obedient
 
 ## Beliefs
+
 1. Faith Alone
    - John 3:14-17
    - Numbers 21
@@ -24,17 +26,16 @@ However, there is some divine punishment that is not damnation.
    - Judgement day gives rewards or temporary punishments, but not heaven or hell.
 
 ## Views on Repentance
+
 1. Change of mind, not a turning from sin (synonym for faith)
 2. Turning from sin, but not a requirement for eternal life
 
 ## Works
+
 - James 2:17
   - Dead faith refers to one that is not profitable in the judgement seat
 
 ## Atonement
+
 - Unlimited
 - Penal substitution
-
-
-
-#TheologyDocs/Main
