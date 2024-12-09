@@ -1,22 +1,22 @@
-name: Replace Bear Link with Markdown Link
-on:
-  push:
+# name: Replace Bear Link with Markdown Link
+# on:
+#   push:
 
-jobs:
-  run_python_script:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v2
+# jobs:
+#   run_python_script:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Code
+#         uses: actions/checkout@v2
       
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+#       - name: Setup Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: '3.10'
     
-      - name: Run Push Python Script
-        run: python ./.github/workflows/python/push.py
+#       - name: Run Push Python Script
+#         run: python ./.github/workflows/python/push.py
 
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+#       - name: Commit changes
+#         uses: stefanzweifel/git-auto-commit-action@v5
 
